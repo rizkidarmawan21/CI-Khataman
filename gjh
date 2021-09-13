@@ -1,0 +1,69 @@
+    <section class="content">
+      <div class="container-fluid">
+        
+        <div class="row">
+          <div class="col-md-">
+            <div class="card">
+              <div class="card-header">
+                <h3 class="card-title mb-">Cetak Syahadah</h3>
+
+            <div class="col-sm mt-5">
+            <!-- small box -->
+            <div class="small-box bg-success">
+              <div class="inner">
+                <h4 style="text-align: center;">Binadhor Putra</h4>
+              </div>
+              <a href="<?= BASEURL;?>binadhor" class="small-box-footer">Cetak <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+          </div>
+            <div class="col-sm mt-5">
+            <!-- small box -->
+            <div class="small-box bg-success">
+              <div class="inner">
+                <h4 style="text-align: center;">Binadhor Putra</h4>
+              </div>
+              <a href="<?= BASEURL;?>binadhor" class="small-box-footer">Cetak <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+          </div>
+            <div class="col-sm mt-5">
+            <!-- small box -->
+            <div class="small-box bg-success">
+              <div class="inner">
+                <h4 style="text-align: center;">Binadhor Putra</h4>
+              </div>
+              <a href="<?= BASEURL;?>binadhor" class="small-box-footer">Cetak <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+          </div>
+            <div class="col-sm mt-5">
+            <!-- small box -->
+            <div class="small-box bg-success">
+              <div class="inner">
+                <h4 style="text-align: center;">Binadhor Putra</h4>
+              </div>
+              <a href="<?= BASEURL;?>binadhor" class="small-box-footer">Cetak <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+          </div>
+              </div>
+              <!-- /.card-header -->
+
+
+              <!-- /.card-body -->
+            </div>
+            <!-- /.card -->
+          </div>
+          <!-- /.col -->
+        </div>
+
+        <div class="row">
+          <div class="col-md-6">
+            <div class="card">
+              <div class="card-header">
+                <h3 class="card-title mb-">Cetak Syahadah</h3>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- /.row -->
+      </div>
+      <!-- /.container-fluid -->
+    </section>
